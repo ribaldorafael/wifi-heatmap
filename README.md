@@ -4,6 +4,9 @@ A WiFi coverage heatmap tool. Click points on a floor plan, walk around your hou
 
 Built with Python + Flask. No cloud, no accounts — everything runs locally.
 
+<img width="1703" height="873" alt="image" src="https://github.com/user-attachments/assets/ddcf6923-a343-4d0c-9fa0-1f96d72d286e" />
+
+
 ## Features
 
 - **Click-to-measure** on any floor plan image — each click captures RSSI, BSSID, channel, PHY mode, Tx rate, noise floor

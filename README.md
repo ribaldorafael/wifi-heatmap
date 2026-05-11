@@ -1,11 +1,12 @@
 # wifi-heatmap
 
+![Tests](https://img.shields.io/badge/tests-110%2B%20passing-brightgreen) ![Python](https://img.shields.io/badge/python-3.9%2B-blue) ![License](https://img.shields.io/badge/license-MIT-green) ![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Linux%20%7C%20Windows-lightgrey)
+
 A WiFi coverage heatmap tool. Click points on a floor plan, walk around your house, and visualize signal strength, throughput, and coverage gaps.
 
 Built with Python + Flask. No cloud, no accounts — everything runs locally.
 
-<img width="1703" height="873" alt="image" src="https://github.com/user-attachments/assets/ddcf6923-a343-4d0c-9fa0-1f96d72d286e" />
-
+<img width="1703" height="873" alt="wifi-heatmap screenshot" src="https://github.com/user-attachments/assets/ddcf6923-a343-4d0c-9fa0-1f96d72d286e" />
 
 ## Features
 
